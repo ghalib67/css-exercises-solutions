@@ -9,3 +9,8 @@
         background-color: aqua;
         color: purple;
     }
+button
+    {
+        size: 23px;
+        font-family: "Helvetica Times New Roman", sans-serif;
+    }
